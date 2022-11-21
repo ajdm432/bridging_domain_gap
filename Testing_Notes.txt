@@ -1,0 +1,15 @@
+Resnet50 with training using Smooth1Loss on 1000 images, 30 epochs, 32 batch size
+NME on 300WLPA: 0.7396
+Time: 10mins for 1000 images (0.6 seconds per image)
+
+Resnet50 with training using MSE on 1000 images, 30 epochs, 32 batch size
+NME on 300WLPA: 0.744846
+Time: 9min 46s
+
+Resnet50 with training using Smooth1Loss on 1000 images, 100 epochs, 16 batch size (very slightly improved. Try training for 35-40 epochs)
+NME on 300WLPA: 0.728028297876823
+Time: 9min 47s
+
+Resnet50 with training using Smooth1Loss on 10000 images, 40 epochs, 32 batch size
+NME on 300WLPA: 0.7512883718529441
+Time: 9min 36s
