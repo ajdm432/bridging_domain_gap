@@ -1,5 +1,7 @@
 # Pytorch Implementation of Facial Landmark Detection Models Trained on Synthetic Data
 
+## **To Read Complete Report See CMPT_732_Project_Report.pdf**
+
 ## **Problem Statement**
 The problem statement for this work was provided by Industrial Light & Magic (ILM). The goal was to design and train facial landmarks models on the provided Fake It Till You Make It (Fake-It) dataset from Microsoft (Wood et al., 2021), and to test the models on real world faces. These tasks were to be completed so that results could be efficiently computed on consumer-level GPUs. Two additional bonus tasks were also completed: running the best model in real time over webcam feed (30 fps) and identifying which data augmentation techniques offered the most improvements to model accuracy for this problem.
 
